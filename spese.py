@@ -14,3 +14,5 @@ media = totale / len(spese)
 
 print(f"Totale dell'anno: {totale}")
 print(f"Media mensile: {media:.2f}")
+
+print("fine")
